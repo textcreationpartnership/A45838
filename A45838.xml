@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>In honour of the right worshipfull doctour Robert Pinke, doctour of divinitie, and warden of New Colledge in Oxford</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45838</idno><idno type="EEBO-CITATION">11780664</idno>
+  <idno type="VID">49037</idno>
+  <idno type="EEBO-PROQUEST">2240870571</idno>
+  
+            <idno type="STC">Wing I111</idno>
+            <idno type="STC">ESTC R31140</idno>
+            <idno type="OCLC">11780664</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A45838)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49037)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1485:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>In honour of the right worshipfull doctour Robert Pinke, doctour of divinitie, and warden of New Colledge in Oxford</title>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>By H. Hall],</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>4 poems on the death of Pinke.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>"Probably written by New Collge men" -- NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Pinck, Robert, 1573-1647 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49037:1"/>
+            <pb facs="tcp:49037:1"/>
+            <p>IN HONO<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> OF THE RIGHT WORSHIPFVLL DOCTOVR ROBERT PINKE, <hi>Doctour of</hi> DIVINITIE, And VVarden of <hi>New Colledge</hi> in OXFORD.</p>
+            <p>Printed in the Yeare, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:49037:2"/>
+            <head>On the much lamented death of the Right VVor<g ref="char:EOLhyphen"/>shipfull Doctour <hi>PINKE</hi> VVarden of New Colledge in Oxon.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">C</seg>Ome, droppe a Teare from some relenting eye,</l>
+               <l>That I may weepe, or sigh an Elegy.</l>
+               <l>Teares of so high-Concernment, Accents raise,</l>
+               <l>Of Longer Durance, then the Poëts Bayes.</l>
+               <l>He that can pen a sigh, and write a teare,</l>
+               <l>Deserves to be a Poët-Laureat here.</l>
+               <l>Whoso with-Inke, not Teares, indites one Verse,</l>
+               <l>Is but a Poë aster at this Herse.</l>
+               <l>Come then, ye Muses, in a Black-Disguise,</l>
+               <l>And bring whole Helicon within your eyes.</l>
+               <l>Empty your Treasures, and unload your store;</l>
+               <l>Your best knowne Freind will never know you more.</l>
+               <l>Attend, yee Graces, doe your Homage too,</l>
+               <l>Adde Grace to him, that was a Grace to You.</l>
+               <l>But ô! Hee's gone! Nature, and Wit, and Art,</l>
+               <l>No other Mansion had but in his Heart.</l>
+               <l>All Christian-Virtues too, which he knew best.</l>
+               <l>Had severall-Thrones appointed in his Breast.</l>
+               <l>But that All-Hee, and all these too are lost,</l>
+               <l>Read this in him alone, that All ingrost.</l>
+               <l>Would you then know how kind and good he was?</l>
+               <l>Goe, read this in the weeping Orphan's Face.</l>
+               <l>Or how devout to workes of Charity?</l>
+               <l>Goe, be resolved by the Poore Mans eye.</l>
+               <l>Nor was he in Divinity the least</l>
+               <l>Of our grave-Pauls: He may be well the best;</l>
+               <l>Whose words, when you some Scripture doubts would know,</l>
+               <l>Might well have pass'd for Text and Comment too.</l>
+               <pb n="2" facs="tcp:49037:2"/>
+               <l>Just such was Hee. In his inspired-eye,</l>
+               <l>You might have read exact Divinity.</l>
+               <l>Nor was his End unlike unto his Life,</l>
+               <l>His Life and Death were at a sacred-strife,</l>
+               <l>Which should excell in Goodnesse: His last voice</l>
+               <l>Might well Enthrone him in Eternall-Joyes.</l>
+               <l>For how can hee, but ever Blessed bee,</l>
+               <l>That made's Last-Words a <hi>Benedicite?</hi>
+               </l>
+            </lg>
+            <byline>Sic lachrymavit, J. H.</byline>
+         </div>
+         <div type="poem">
+            <head>On the Death of the Reverend <hi>ROBERT PINKE</hi> Doctor of Divinity, VVarden of New-Col<g ref="char:EOLhyphen"/>ledge in <hi>Oxford.</hi>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">O</seg> Let mee sigh and burst! my heart's too great</l>
+               <l>To be contain'd within a Cabinet</l>
+               <l>Brimfull with sorrowes pregnant in my breast,</l>
+               <l>Some Pegasus to stricke a spring at least,</l>
+               <l>Like that of <hi>Helicon</hi> may flow in Verse</l>
+               <l>And weepeng Elegies about his Herse,</l>
+               <l>Are we design'd for ruine i<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our fate</l>
+               <l>Drawne out inevitably desperate,</l>
+               <l>Destruction threatned long before his fall,</l>
+               <l>Now rides in Triumph at this Funerall,</l>
+               <l>Enjoyes the Tyrants wish, glories that shee</l>
+               <l>In one hath murther'd a Society.</l>
+               <l>For are wee living yet, shall it be sayd</l>
+               <l>The Body walkes about without an Head?</l>
+               <l>At best wee are but Bruits for it is cleare</l>
+               <l>Our Reason and our Iudgement's buried here,</l>
+               <l>And that advantage from our soules shall bee</l>
+               <l>That wee have sence to tell our miserie,</l>
+               <pb n="3" facs="tcp:49037:3"/>
+               <l>Hell-paines are most in losses and wee know</l>
+               <l>Our owne as great as can be here below,</l>
+               <l>To loose a Le<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rned and an Eminent man</l>
+               <l>Puts us beside or studies when wee can</l>
+               <l>Plead for our ease that all our industrie,</l>
+               <l>Our thoughts, our Learnig, with our selves they die.</l>
+               <l>To loose a President of such entire</l>
+               <l>And honest Principles, makes us enquire</l>
+               <l>Whether all goodnesse is not banish't hence</l>
+               <l>And wee alone exempt from Providence,</l>
+               <l>Too loose a Doctor of our Church whose life</l>
+               <l>Was a continued Sermon without Strife,</l>
+               <l>Or Faction, true to God, and Church and King,</l>
+               <l>Would make Us feare a downefall: when wee bring</l>
+               <l>Examples of whole States ran to decay</l>
+               <l>When such Palladiums were snatch't away.</l>
+               <l>Yet to draw nearer when wee looke uppon</l>
+               <l>Our Academies late distraction,</l>
+               <l>Whats aime to shatter and disjoint the whole</l>
+               <l>And then consider how this publicke Soule</l>
+               <l>That did Unite and actuate, and led</l>
+               <l>Our University, is vanished.</l>
+               <l>How will the Body fall a Sacrifice</l>
+               <l>To Malice, Sacriledge, and Avarice.</l>
+               <l>Lastly to understand our owne distresse,</l>
+               <l>Under what Prejudice and Tempests these</l>
+               <l>Unhappy times wee lie, our Pilot dead</l>
+               <l>Who with a skilfull eye discovered</l>
+               <l>The Storme at distance knew to steere his course</l>
+               <l>With such an even hand would breake the force</l>
+               <l>Of threatning Waves so that we past these yeares</l>
+               <l>Of troubles most secure, but now our feares</l>
+               <l>And terrours compasse Us, as thunderstrooke</l>
+               <l>Wee stand amaz'd, on one another looke</l>
+               <l>And know not what to trust too, where to lay</l>
+               <l>Our Anchors, whose command we sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld obey,</l>
+               <pb n="5" facs="tcp:49037:3"/>
+               <l>Give mee a draught of Shipracks for 'tis sure</l>
+               <l>Wee all must sinke in th'storme or beg on th'shore.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>On the much lamented death of <hi>ROBERT PINKE,</hi> Doctour of Divinity, &amp; VVarden of New Colledge.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">W</seg>Ere I all Rheume, and made of Teares,</l>
+               <l>I could not droppe one on this Hearse.</l>
+               <l>He was a Dunce's enemy,</l>
+               <l>And never could endure mee.</l>
+               <l>Were I a Wit I'de weepe in Verse,</l>
+               <l>And drench the Dropsi'd sun in Teares.</l>
+               <l>I'de make each Muses eye to run,</l>
+               <l>Like a new sprung Helicon.</l>
+               <l>You Schollers might methinks devise,</l>
+               <l>Meanes to distill old Tragoedies,</l>
+               <l>In greifes Alymbeck till there flowes,</l>
+               <l>From thence a Quintissence of woes.</l>
+               <l>Then take the Spirits of them <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll,</l>
+               <l>And sprinkle o're this Fune<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all.</l>
+               <l>Nothing but the soule of Woe,</l>
+               <l>Can actuate a greife for You,</l>
+               <l>What Vollies of your sighs would well,</l>
+               <l>Fill th' obits of your Colonell.</l>
+               <l>One that like a Rocke hath stood,</l>
+               <l>Curb'd the stormes, and checkt the floud.</l>
+               <l>Who for your sakes regarded not,</l>
+               <l>Th'insulting Souldier, or his shot;</l>
+               <l>Who kept Apollo's Florets free,</l>
+               <l>From th'clutch of rude Hostility;</l>
+               <l>Walkt round the Battlements of wit,</l>
+               <l>When Barbarisme stormed it.</l>
+               <pb n="6" facs="tcp:49037:4"/>
+               <l>For when he was in th'Gatehouse led,</l>
+               <l>All Learning was imprisoned.</l>
+               <l>By what he suffer'd there we know,</l>
+               <l>What torments dwell in hell below.</l>
+               <l>He dranke his, Teares and sorrowes Lees;</l>
+               <l>And 'ate the Bread of carefullnesse;</l>
+               <l>Yet his Fancy was as cleare,</l>
+               <l>As if he fed on Sunbeames there.</l>
+               <l>Being got from thence; for by the story,</l>
+               <l>It was not Hell, but Purgatory;</l>
+               <l>He kickt Rebellion out of Towne,</l>
+               <l>Pull'd Ignorance and Atheisme downe,</l>
+               <l>He purg'd the Schooles of Solecisme,</l>
+               <l>Refin'd pedanticke barbarisme.</l>
+               <l>His silken Phrase made Logicke run,</l>
+               <l>As smooth as calmed Helicon.</l>
+               <l>But oh! hee's gone, the wellcome bee,</l>
+               <l>Dullnesse and stupidity.</l>
+               <l>Burne your Bookes, or onely con,</l>
+               <l>The Talmud or the Alkaron;</l>
+               <l>Studdy you may your hearts out; but</l>
+               <l>This Anabaptist, Death, hath cut,</l>
+               <l>All humane Learning downe at once,</l>
+               <l>As if he had beene brib'd for th'nonce,</l>
+               <l>By th'Agitatours, to doe what,</l>
+               <l>
+                  <hi>Yurberry</hi> and they could not.</l>
+               <l>A greater blow there never came,</l>
+               <l>From <hi>Poland</hi> or from <hi>Amsterdam.</hi>
+               </l>
+               <l>Let Boyes play on his name and cry,</l>
+               <l>'Tis pitty such a flower should dye.</l>
+               <l>I cannot thinke him dead that is,</l>
+               <l>Transplanted into Paradise.</l>
+               <l>Nor are we of his sweet bereaven,</l>
+               <l>Since what we loose is gain'd by heaven.</l>
+               <l>For though I love a Posie well,</l>
+               <l>I doe not envy Gods the smell.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="7" facs="tcp:49037:4"/>
+            <head>On the Death of <hi>ROBERT PINKE</hi> Dr. of Divi<g ref="char:EOLhyphen"/>nity, and late VVarden of New-Colledge.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">L</seg>Oe here the pride of <hi>Wicham's</hi> Garden dyes</l>
+               <l>Cropt to be made a flower in Paradise,</l>
+               <l>As wee doe bruise a root to put i'th Earth</l>
+               <l>That it may sprout and gaine a second birth,</l>
+               <l>Thus is Hee layd in ground never to dye</l>
+               <l>But to spring up to all Eternity:</l>
+               <l>Su<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e as I live Hee's dead! w'have lost the man,</l>
+               <l>N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y more w'have lost our all-who justly can</l>
+               <l>Let downe the Flood-gates of his bigge swolne eyes</l>
+               <l>When hee shall heare of such sad obsequies?</l>
+               <l>But is Hee dead, Ile not beleeve it! froward fate</l>
+               <l>Could never be so curst to Anti-date</l>
+               <l>The latter-day; Philosophy controle</l>
+               <l>and leave the drooping world without a soule.</l>
+               <l>But oh!</l>
+               <l>Hee's dead! dead on my life! Rude Death</l>
+               <l>How durst thou be so bold to filch his breath</l>
+               <l>That gave so many life? how knowst but Hee</l>
+               <l>May hasten time to throw a dart at thee?</l>
+               <l>How many things in blacke might we home fate</l>
+               <l>Have freely seiz'd and nee'r bin murmur'd at,</l>
+               <l>Such who devoutly chew the coud upon</l>
+               <l>Some new found fangle in Religion</l>
+               <l>For seven yeares together, then scot free fall</l>
+               <l>To tel's at las<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wee sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll have none at all.</l>
+               <l>How well might these be spar'd; e'n let them dye,</l>
+               <l>Wee'l thank ill favou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'d Death for's courtesie.</l>
+               <l>But oh! when ver ue dyes! who can forbeare</l>
+               <l>That hath a Teare to lend but give it there.</l>
+               <l>And here lyes one who when hee liv'd possest</l>
+               <l>All ingrost vertue in his Catholique breast,</l>
+               <l>Whom every Grace did court to be her sphere,</l>
+               <l>And every Muse had plaid her mansion there</l>
+               <pb n="8" facs="tcp:49037:5"/>
+               <l>And sadly now unto thy sacred-tresse</l>
+               <l>Bring in each eye a Teare, each hand a Verse,</l>
+               <l>Hee was [beleeve mee Reader for 'tis rare]</l>
+               <l>One in whom all choise gifts implanted were</l>
+               <l>Whose masculine Phrase and Soveraigne Speech was such,</l>
+               <l>
+                  <hi>Tully</hi> might talke more but not speake so much,</l>
+               <l>Whose every action had the noble end</l>
+               <l>O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to advance desert or grace a friend.</l>
+               <l>Hee was not gouty fingred who more free,</l>
+               <l>More open handed to the poore than Hee</l>
+               <l>If good works prove, that liv'd hence you may read</l>
+               <l>The sad but certaine cause 'tis PINKE is dead</l>
+               <l>Hee was to good to live; Bee this pride</l>
+               <l>With him all vertue liv'd, with him all died,</l>
+            </lg>
+            <pb facs="tcp:49037:5"/>
+         </div>
+         <trailer>FJNJS.</trailer>
+      </body>
+   </text>
+</TEI>
